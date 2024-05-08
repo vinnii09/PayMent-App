@@ -4,9 +4,9 @@ import db from "@repo/db/client";
 export const GET = async () => {
   await db.user.create({
     data: {
-      email: "asd",
-      name: "adsads",
-      number: "87887",
+      email: "asdncih",
+      name: "adsadspojwph",
+      number: "8788799",
       password: "bcooh",
     },
   });
